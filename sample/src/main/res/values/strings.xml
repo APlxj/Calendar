@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">日历</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_basic">基础</string>
+    <string name="title_activity_disable">禁用</string>
+    <string name="title_activity_customize_xml">XML 定制</string>
+    <string name="title_activity_customize_code">标志</string>
+    <string name="title_activity_dynamic_setters">动态设置</string>
+    <string name="title_activity_custom_tile_size">自定义宽高</string>
+    <string name="title_activity_old_calendar">老式</string>
+    <string name="title_activity_dialogs">Dialog</string>
+    <string name="title_activity_decorators">自定义1</string>
+    <string name="title_activity_basic_modes">月/周</string>
+    <string name="title_activity_multiple_view">Multiple Basic Calendars</string>
+    <string name="title_activity_multiple_size">Many-Sized Calendars</string>
+
+    <string-array name="custom_weekdays">
+        <item>日</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+    </string-array>
+
+    <string-array name="custom_months">
+        <item>JAN</item>
+        <item>Feb</item>
+        <item>MARCH</item>
+        <item>April</item>
+        <item>MAY</item>
+        <item>June</item>
+        <item>JULY</item>
+        <item>Aug</item>
+        <item>SEPT</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>DEC</item>
+    </string-array>
+
+    <string name="label_normal">适用于屏幕(常用)</string>
+    <string name="label_small">适合小型布局参数</string>
+    <string name="label_medium">适合于指定的小布局参数</string>
+    <string name="label_thin">瓷砖宽度和高度指定(薄)</string>
+    <string name="label_wide">宽度和高度指定(薄)瓦宽度和高度指定(宽)</string>
+
+
+    <string name="today">今天是那一天</string>
+</resources>
